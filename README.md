@@ -1,5 +1,5 @@
-
 Dataset yang digunakan pada penelitian ini terdiri dari 4 video CCTV dari area mesin produksi PT. I Flex Indonesia. Video digunakan untuk pengujian status mesin dan operator pada beberapa kondisi, yaitu:
+
 
 1. Video malam hari saat mesin tidak aktif
 2. Video siang hari saat mesin aktif beroperasi
